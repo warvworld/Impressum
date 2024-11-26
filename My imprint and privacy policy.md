@@ -1,9 +1,3 @@
-<h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2>
-
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2>
 
