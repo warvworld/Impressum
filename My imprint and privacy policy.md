@@ -1,29 +1,5 @@
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2>
 
-<p>Paul Muller<br />
-Hauptstr,<br />
-49635 Badbergen, Deutschland</p>
-
-<p>&nbsp;</p>
-
-<h2>Kontakt:</h2>
-
-<table>
-	<tbody>
-		<tr>
-			<td>Telefon:</td>
-			<td>+49 (0) 05433/3313006</td>
-		</tr>
-		<tr>
-			<td>Telefax:</td>
-			<td>+49 (0)</td>
-		</tr>
-		<tr>
-			<td>E-Mail:</td>
-			<td>contact@warvworld.de</td>
-		</tr>
-	</tbody>
-</table>
 
 <p>&nbsp;</p>
 
@@ -31,10 +7,8 @@ Hauptstr,<br />
 
 <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2>
 
-<p>Paul Muller<br />
-Hauptstr,<br />
-49635 Badbergen, Deutschland</p>
-
+<p>Paul WarVWorld <br />
+Deutschland</p>
 <p>&nbsp;</p>
 
 <h2>Haftung f&uuml;r Inhalte</h2>
